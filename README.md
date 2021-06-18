@@ -14,3 +14,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+
+  <samp >
+    Hey I'm Prachi Purohit! :wave:
+    <br><br>
+    I am currently an engineering student 💻
+  </samp>
+</p>
+
+<p align="center"> 
+  <i> Let's connect ! :incoming_envelope: </i>
+</p>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/prachi-purohit-b8a71816a/"><img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/></a> &nbsp; &nbsp;
+<a href="mailto:purohitprachi72@gmail.com"><img src="https://img.icons8.com/cotton/64/000000/email-open.png"/></a> &nbsp; &nbsp;
+</p>
+
+<!--https://icons8.com/icons/set/svg-->
+
+⭐️ From [purohitprachi](https://github.com/purohitprachi72)
