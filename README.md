@@ -16,14 +16,14 @@ Here are some ideas to get you started:
 <p align="center">
 
   <samp >
-    Hey I'm Prachi Purohit! :wave:
+    Hello, I'm Prachi :wave:
     <br><br>
-    I am currently an engineering student 💻
+    I am a third year student pursuing my Bachelor's of Engineering in Electronics & Telecommunication 💻
   </samp>
 </p>
 
 <p align="center"> 
-  <i> Let's connect ! :incoming_envelope: </i>
+  <i> Let's connect! :incoming_envelope: </i>
 </p>
 
 <p align="center">
