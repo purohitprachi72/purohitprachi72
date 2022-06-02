@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <p align="center">
 
   <samp >
-    Hello, I'm Prachi :wave:
+    Namo Namah 🙏
     <br><br>
     I am a third year student, pursuing my Bachelor's of Engineering in Electronics & Telecommunication 💻
   </samp>
